@@ -37,5 +37,22 @@ Ashish Chawda
 :man_technologist:
 &#47;&gt;</a>
 </td>
+ 
+<td align="center">
+<a href="https://www.linkedin.com/in/nishant-pathak-283690193" >
+<img src="https://avatars.githubusercontent.com/NishantPathak2704" alt="Nishant Pathak" title="Nishant Pathak" width="100px" height="auto" />
+</a>
+<br/>
+<a href="https://github.com/NishantPathak2704/" title="NishantPathak2704" style="color:#999;">
+Nishant Pathak
+</a>
+<br/>
+<a href="https://github.com/we-developers-community/community-website/commits?author=NishantPathak2704" title="code">&lt;
+:man_technologist:
+&#47;&gt;</a>
+</td>
+ 
 </tr>
 </table>
+
+
