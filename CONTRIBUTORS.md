@@ -52,6 +52,20 @@ Nishant Pathak
 &#47;&gt;</a>
 </td>
  
+<td align="center">
+<a href="https://www.linkedin.com/in/pranjal-bareth" >
+<img src="https://avatars.githubusercontent.com/pranjalbareth" alt="Pranjal Bareth" title="Pranjal Bareth" width="100px" height="auto" />
+</a>
+<br/>
+<a href="https://github.com/pranjalbareth/" title="pranjalbareth" style="color:#999;">
+Pranjal Bareth
+</a>
+<br/>
+<a href="https://github.com/we-developers-community/community-website/commits?author=Pranjal Bareth" title="code">&lt;
+:man_technologist:
+&#47;&gt;</a>
+</td>
+
 </tr>
 </table>
 
