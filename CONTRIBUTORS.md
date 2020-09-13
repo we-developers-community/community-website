@@ -66,6 +66,22 @@ Pranjal Bareth
 &#47;&gt;</a>
 </td>
 
+<td align="center">
+<a href="https://www.linkedin.com/in/deepak-suryawanshi-740546198/" >
+<img src="https://instagram.fidr1-2.fna.fbcdn.net/v/t51.2885-19/s320x320/107451554_701319837098904_4320658701392622403_n.jpg?_nc_ht=instagram.fidr1-2.fna.fbcdn.net&_nc_ohc=woxt6tki_boAX8NWOQL&oh=0ffdbf2665c63d4bafd50b757de0514d&oe=5F866C5B" alt="Deepak suryawanshi" title="Deepak suryawanshi" width="100px" height="auto" />
+</a>
+<br/>
+<a href="https://github.com/deepaksy/" title="deepaksy" style="color:#999;">
+Deepak suryawanshi
+</a>
+<br/>
+<a href="https://github.com/we-developers-community/community-website/commits?author=deepaksy" title="code">&lt;
+:man_technologist:
+&#47;&gt;</a>
+</td>
+
+
+
 </tr>
 </table>
 
