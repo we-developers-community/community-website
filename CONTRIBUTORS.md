@@ -81,7 +81,7 @@ Deepak suryawanshi
 </td>
 
 <td>
-<a href="https://www.linkedin.com/in/aaliya7516>" >
+<a href="https://www.linkedin.com/in/aaliya7516" >
 <img src="https://media-exp1.licdn.com/dms/image/C5603AQGHBAQvvvs2Xg/profile-displayphoto-shrink_200_200/0?e=1607558400&v=beta&t=UgvNxjc0_qPP2mZ1KdTEyMRad6bTx2rPap8NLmktvXY" alt="Aaliya Haque" title="Aaliya Haque" width="100px" height="auto" />
 </a>
  <br/>
