@@ -82,7 +82,7 @@ Deepak suryawanshi
 
 <td>
 <a href="https://www.linkedin.com/in/aaliya7516" >
-<img src="https://media-exp1.licdn.com/dms/image/C5603AQGHBAQvvvs2Xg/profile-displayphoto-shrink_200_200/0?e=1607558400&v=beta&t=UgvNxjc0_qPP2mZ1KdTEyMRad6bTx2rPap8NLmktvXY" alt="Aaliya Haque" title="Aaliya Haque" width="100px" height="auto" />
+<img src="https://avatars1.githubusercontent.com/u/53328555?v=4" alt="Aaliya Haque" title="Aaliya Haque" width="100px" height="auto" />
 </a>
  <br/>
 <a href="https://github.com/Aaliya7516/" title="Aaliya7516" style="color:#999;">
