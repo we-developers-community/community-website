@@ -80,6 +80,20 @@ Deepak suryawanshi
 &#47;&gt;</a>
 </td>
 
+<td>
+<a href="https://www.linkedin.com/in/aaliya7516" >
+<img src="https://avatars1.githubusercontent.com/u/53328555?v=4" alt="Aaliya Haque" title="Aaliya Haque" width="100px" height="auto" />
+</a>
+ <br/>
+<a href="https://github.com/Aaliya7516/" title="Aaliya7516" style="color:#999;">
+Aaliya Haque
+</a>
+ <br/>
+<a href="https://github.com/we-developers-community/community-website/commits?author=Aaliya7516" title="code">&lt;
+:man_technologist:
+&#47;&gt;</a>
+</td>
+
 
 
 </tr>
